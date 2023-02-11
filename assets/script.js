@@ -14,6 +14,7 @@ var x = setInterval(function () {
     document.getElementById("hours").innerHTML = hours;
     document.getElementById("minutes").innerHTML = minutes;
     document.getElementById("seconds").innerHTML = seconds;
+    
 
 
     if (distance < 0) {
