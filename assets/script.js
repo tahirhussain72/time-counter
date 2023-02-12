@@ -18,6 +18,7 @@ var x = setInterval(function () {
 
 
     if (distance < 0) {
+        
         clearInterval(x)
         document.getElementById("days").innerHTML = "00";
         document.getElementById("hours").innerHTML = "00";
