@@ -86,19 +86,29 @@ body{
     border: 8px;
     background-color: aquamarine;
     text-align: center;
+    color: #000;
     margin-right: 10px;
 }
 .hours {
     border: 8px;
     background-color: aquamarine;
     text-align: center;
+    color: #000;
     margin-right: 10px;
 }
 .minutes  {
     border: 8px ;
     background-color: aquamarine ;
     text-align: center ; 
+    color: #000;
     margin-right: 10px  ;
+}
+.seconds{
+    border: 8px;
+    background-color: aquamarine;
+    text-align: center;
+    color: #000;
+    margin-right: 10px;
 }
 
 
