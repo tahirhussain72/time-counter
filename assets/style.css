@@ -82,3 +82,10 @@ body{
     }
 }
 
+.days {
+    border: 8px;
+    background-color: aquamarine;
+    text-align: center;
+    margin-right: 10px;
+}
+
