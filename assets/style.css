@@ -89,6 +89,10 @@ body{
     color: #000;
     margin-right: 10px;
 }
+.days  p{
+    /* margin-top: 10px; */
+    margin-bottom: 10px;
+}
 .hours {
     border: 8px;
     background-color: aquamarine;
