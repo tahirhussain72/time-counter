@@ -101,6 +101,13 @@ body{
     margin-bottom: 10px;
     color: royalblue;
 }
+#minutes{
+    margin-bottom: 10px;
+    color: royalblue;
+}#seconds{
+    margin-bottom: 10px;
+    color: royalblue;
+}
 .hours {
     border: 8px;
     background-color: aquamarine;
